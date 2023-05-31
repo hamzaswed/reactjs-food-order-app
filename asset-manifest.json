@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/hamzaswed/reactjs-food-oreder-app/static/css/main.112f0931.chunk.css",
-    "main.js": "/hamzaswed/reactjs-food-oreder-app/static/js/main.67a6a35a.chunk.js",
-    "main.js.map": "/hamzaswed/reactjs-food-oreder-app/static/js/main.67a6a35a.chunk.js.map",
-    "runtime-main.js": "/hamzaswed/reactjs-food-oreder-app/static/js/runtime-main.08ce85ad.js",
-    "runtime-main.js.map": "/hamzaswed/reactjs-food-oreder-app/static/js/runtime-main.08ce85ad.js.map",
-    "static/js/2.606ca2de.chunk.js": "/hamzaswed/reactjs-food-oreder-app/static/js/2.606ca2de.chunk.js",
-    "static/js/2.606ca2de.chunk.js.map": "/hamzaswed/reactjs-food-oreder-app/static/js/2.606ca2de.chunk.js.map",
-    "index.html": "/hamzaswed/reactjs-food-oreder-app/index.html",
-    "static/css/main.112f0931.chunk.css.map": "/hamzaswed/reactjs-food-oreder-app/static/css/main.112f0931.chunk.css.map",
-    "static/js/2.606ca2de.chunk.js.LICENSE.txt": "/hamzaswed/reactjs-food-oreder-app/static/js/2.606ca2de.chunk.js.LICENSE.txt",
-    "static/media/Bean Eater-1s-109px.c3a936d5.gif": "/hamzaswed/reactjs-food-oreder-app/static/media/Bean Eater-1s-109px.c3a936d5.gif",
-    "static/media/meals.2971f633.jpg": "/hamzaswed/reactjs-food-oreder-app/static/media/meals.2971f633.jpg"
+    "main.css": "/reactjs-food-order-app/static/css/main.112f0931.chunk.css",
+    "main.js": "/reactjs-food-order-app/static/js/main.67a6a35a.chunk.js",
+    "main.js.map": "/reactjs-food-order-app/static/js/main.67a6a35a.chunk.js.map",
+    "runtime-main.js": "/reactjs-food-order-app/static/js/runtime-main.40a3f76d.js",
+    "runtime-main.js.map": "/reactjs-food-order-app/static/js/runtime-main.40a3f76d.js.map",
+    "static/js/2.606ca2de.chunk.js": "/reactjs-food-order-app/static/js/2.606ca2de.chunk.js",
+    "static/js/2.606ca2de.chunk.js.map": "/reactjs-food-order-app/static/js/2.606ca2de.chunk.js.map",
+    "index.html": "/reactjs-food-order-app/index.html",
+    "static/css/main.112f0931.chunk.css.map": "/reactjs-food-order-app/static/css/main.112f0931.chunk.css.map",
+    "static/js/2.606ca2de.chunk.js.LICENSE.txt": "/reactjs-food-order-app/static/js/2.606ca2de.chunk.js.LICENSE.txt",
+    "static/media/Bean Eater-1s-109px.c3a936d5.gif": "/reactjs-food-order-app/static/media/Bean Eater-1s-109px.c3a936d5.gif",
+    "static/media/meals.2971f633.jpg": "/reactjs-food-order-app/static/media/meals.2971f633.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.08ce85ad.js",
+    "static/js/runtime-main.40a3f76d.js",
     "static/js/2.606ca2de.chunk.js",
     "static/css/main.112f0931.chunk.css",
     "static/js/main.67a6a35a.chunk.js"
