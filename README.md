@@ -15,8 +15,7 @@
 
 ### Demo Screeshots
 
-![Portfolio Desktop Demo](![image](https://github.com/hamzaswed/reactjs-food-order-app/assets/81015655/059d1ac3-e445-4912-82b1-ef31a59401c2)
-)
+![image](https://github.com/hamzaswed/reactjs-food-order-app/assets/81015655/91e036fa-49e0-4013-8864-d7404b443791)
 
 
 ## Author
