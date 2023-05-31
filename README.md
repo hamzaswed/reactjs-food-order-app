@@ -5,7 +5,7 @@
 
   <h2 align="center">Food Order App Project</h2>
 
-  Fully responsive Game, built using HTML, CSS, and JavaScript(Reactjs).
+   built using HTML, CSS, and JavaScript(Reactjs).
 
   <a href="https://hamzaswed.github.io/reactjs-food-order-app/"><strong>➥ Live Demo</strong></a>
 
